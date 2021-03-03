@@ -1,0 +1,4 @@
+azure-cli-core==2.20.0
+azure-mgmt-containerinstance==7.0.0
+azure-mgmt-resource==16.0.0
+msrestazure==0.6.4
